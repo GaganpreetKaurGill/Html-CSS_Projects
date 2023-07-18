@@ -27,7 +27,7 @@ This is a screenshot of the final version of the code for mobile devices.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github Link](https://github.com/GaganpreetKaurGill/Html-CSS_Projects.git)
 
 ## My process
 
